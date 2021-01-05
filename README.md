@@ -2,7 +2,7 @@
 
 Hi, I'm [Quoc Thang](https://facebook.com/gnahtcouq/)
 
-  <img align="right" alt="GIF" src="https://github.com/gnahtcouq/gnahtcouq/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gnahtcouq/gnahtcouq/main/code.gif" width="500" height="320" />
 
 <!--
 **gnahtcouq/gnahtcouq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
