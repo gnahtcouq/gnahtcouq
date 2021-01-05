@@ -15,4 +15,4 @@ Hi, I'm [Quoc Thang](https://facebook.com/gnahtcouq/)
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gnahtcouq&show_icons=true&theme=gotham" alt="gnahtcouq" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gnahtcouq&show_icons=true&theme=gotham" alt="gnahtcouq" />
