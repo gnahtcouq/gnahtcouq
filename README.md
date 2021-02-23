@@ -1,1 +1,1 @@
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gnahtcouq&show_icons=true&theme=gotham" alt="gnahtcouq" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gnahtcouq/gnahtcouq/main/code.gif" width="500" height="320" />
