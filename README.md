@@ -1,6 +1,7 @@
-![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnahtcouq&count_private=true&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnahtcouq&count_private=true&theme=tokyonight" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
