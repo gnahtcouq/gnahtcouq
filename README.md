@@ -1,7 +1,5 @@
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=gnahtcouq&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gnahtcouq&count_private=true&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnahtcouq&count_private=true&theme=tokyonight" />
 
 <p align="center"> 
