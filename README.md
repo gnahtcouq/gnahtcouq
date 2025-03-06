@@ -1,7 +1,7 @@
 
 <!-- # Hi there, I'm [gnahtcouq!](https://github.com/gnahtcouq) 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Quoc+Thang%EF%BC%81;console.log(%22Hello+World!%22);I+might+be+slow+to+respond.)](https://github.com/gnahtcouq)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Thang%EF%BC%81;console.log(%22Hello+World!%22);I+might+be+slow+to+respond.)](https://github.com/gnahtcouq)
 
 ---
 <div>
